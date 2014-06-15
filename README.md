@@ -12,7 +12,7 @@ Write a program which fulfills the requirements below
 * (Take input from standard input, and output to standard output)
 
 ### Rules
-* Choose your favorite language from either of these: C, Erlang, Go, Python, Ruby
+* Language: Python
 * Do not use loop statements like while/until/for/each/loop
 
 #### Sample Input
